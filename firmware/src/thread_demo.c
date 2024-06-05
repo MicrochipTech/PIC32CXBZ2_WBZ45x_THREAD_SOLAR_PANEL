@@ -138,6 +138,7 @@ void threadSendIPAddr(void)
         memcpy(&demoMsg.msg, &solarReport, sizeof(devTypeSolarReport_t));
         threadUdpSend(&gatewayAddr, 4 + sizeof(devTypeSolarReport_t), (uint8_t *)&demoMsg);
         app_printf("App Log:Solar Report\r\n");
+        app_printf(" Thread sp voltage:%.2f V Light:%.2f lx \r\n",SP_Volt,SP_ldr);
 
     }
 }

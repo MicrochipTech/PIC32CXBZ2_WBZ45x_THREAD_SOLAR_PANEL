@@ -49,7 +49,7 @@ void app_idle_task( void )
         {
             if (PDS_Items_Pending)
             {
-                //PDS_StoreItemTaskHandler();
+                PDS_StoreItemTaskHandler();
             }
             else if (RF_Cal_Needed)
             {

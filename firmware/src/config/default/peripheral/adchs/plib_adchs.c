@@ -86,7 +86,7 @@ void ADCHS_Initialize(void)
 
 
     /* Result interrupt enable */
-    ADCHS_REGS->ADCHS_ADCGIRQEN1 = 0x2;
+    ADCHS_REGS->ADCHS_ADCGIRQEN1 = 0x20;
     
 
     /* Turn ON ADC */
