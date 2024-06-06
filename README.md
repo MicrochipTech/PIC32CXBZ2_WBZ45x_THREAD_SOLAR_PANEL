@@ -36,7 +36,7 @@ This application enables the users to create a Full Thread Device. Thread Servo 
 ![](Docs/Hardware_setup.png)
 
 Supported Propreitary Device Types:<br>
-	1. [Thread co-processor device](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_THREAD_co-processor)
+	1. [Thread co-processor device](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_THREAD_co-processor)<br>
     2. [Thread temperature sensor](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_THREAD_TEMPERATURE_SENSOR)<br>
     3. [Thread Thermostat](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_THREAD_THERMOSTAT)<br>
     4. [RGB Light control](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_THREAD_LIGHTING)<br>
