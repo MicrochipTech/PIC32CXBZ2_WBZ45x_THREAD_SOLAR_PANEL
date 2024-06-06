@@ -188,6 +188,6 @@ Follow the steps provided in the link to [Build and program the application](htt
 
 ## 7. Run the demo<a name="step7">
 
-- Once the [Thread co-processor device](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_THREAD_co-processor) is powered on the Temperature sensor will join the network. The temperature will get reported periodically to the Thread co-processor device. Once the Thermostat HVAC joins the network the Thread co-processor device sends the HVAC address and now the Temperature sensor will start reporting the sensor values to the HVAC device.
+- Once the [Thread co-processor device](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_THREAD_co-processor) is powered on the Solar Panel will join the network. The Solar Voltage and Light Intensity will get reported periodically to the Thread co-processor device. Once the Solar Panel has joined with [Thread co-processor device](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_THREAD_co-processor) we can set the position of the solar panel from gateway console.Refer the [Thread co-processor device](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_THREAD_co-processor) to know more about the commands to set the Solar Panel position. 
 
 ![](Docs/Output.gif)
