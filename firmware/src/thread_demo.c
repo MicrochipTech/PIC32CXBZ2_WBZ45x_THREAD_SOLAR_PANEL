@@ -57,7 +57,6 @@
 #include "utils/uart.h"
 #include "timers.h"
 #include "thread_demo.h"
-#include "udp_demo.h"
 
 #include <assert.h>
 

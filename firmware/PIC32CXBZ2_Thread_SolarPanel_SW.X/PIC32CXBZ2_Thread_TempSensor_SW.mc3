@@ -4380,15 +4380,6 @@
 </value>
       </entry>
       <entry>
-         <key class="com.microchip.mcc.core.tokenManager.CustomKey" moduleName="OPEN_THREAD" name="OPEN_THREAD_DEVICE_ROLE_CONFIG_2"/>
-         <value>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;OPEN_THREAD&gt;
-  &lt;OPEN_THREAD dnOrder=&quot;0&quot; id=&quot;OPEN_THREAD_DEVICE_ROLE_CONFIG_2&quot;&gt;
-    &lt;Values dnOrder=&quot;0&quot;/&gt;
-  &lt;/OPEN_THREAD&gt;
-&lt;/OPEN_THREAD&gt;
-</value>
-      </entry>
-      <entry>
          <key class="com.microchip.mcc.core.tokenManager.CustomKey" moduleName="OPEN_THREAD" name="OPEN_THREAD_ENABLE_SERIAL_PARSING"/>
          <value>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;OPEN_THREAD&gt;
   &lt;OPEN_THREAD dnOrder=&quot;0&quot; id=&quot;OPEN_THREAD_ENABLE_SERIAL_PARSING&quot;&gt;
@@ -15907,7 +15898,7 @@
       </entry>
       <entry>
          <file>..\src\app_config.h</file>
-         <hash>c2d35f600a250b635824db249422321b881c09c08860bff8b3ade2e72c3ce4e6</hash>
+         <hash>edd24ea8f4d6c95043e81acdfdd1b22b13ddadb97ad96c4d7452b65b9b56c402</hash>
       </entry>
       <entry>
          <file>..\src\app_error_defs.h</file>
@@ -15967,7 +15958,7 @@
       </entry>
       <entry>
          <file>..\src\config\default\definitions.h</file>
-         <hash>10f24356df48e61dc75f0a2ec7817b7e9cd50dd42f869c4af1cbeb4b3030cb27</hash>
+         <hash>88bddd93be8e5b318cd07db1e214d2eac790d6ce29eb9f665f17709ea2f8d4fe</hash>
       </entry>
       <entry>
          <file>..\src\config\default\device.h</file>
@@ -15983,11 +15974,11 @@
       </entry>
       <entry>
          <file>..\src\config\default\driver\IEEE_802154_PHY\pal\inc\pal.h</file>
-         <hash>d8c0da049a693ae22381db2d8234c63e1a949119687d38efcf65e418d5744963</hash>
+         <hash>4da508ddc3ba665962966e9780b20d57817dd776623d2f6257e7b63c23034d15</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\IEEE_802154_PHY\pal\src\pal.c</file>
-         <hash>b88b668e110d392d65fa6f16b094bb29a2d8ebc10d1a818b5a86887b4cd941a9</hash>
+         <hash>90deee4776157aa2e5314aa01aebb67887a48d906b3a4eefc8586fd1b849f703</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\IEEE_802154_PHY\phy\inc\ieee_phy_const.h</file>
@@ -15995,7 +15986,7 @@
       </entry>
       <entry>
          <file>..\src\config\default\driver\IEEE_802154_PHY\phy\inc\phy.h</file>
-         <hash>f5d4781f4faed81150040ad4c4ccff78cc8f583fa28a5e6f07f8664ec4c3decd</hash>
+         <hash>e9fe74456b5f84955fe0e9ce2e7e037bba8e79c96160eadf0a663566e69429bc</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\IEEE_802154_PHY\phy\inc\phy_constants.h</file>
@@ -16066,8 +16057,8 @@
          <hash>5217965f6720b4fdf717e99ce9df4f2c9fbd82bbbc9655847166d1eefa806fee</hash>
       </entry>
       <entry>
-         <file>..\src\config\default\driver\lib\lib-ieee802154_phy_pic32cxbz-v1.1.0.a</file>
-         <hash>6deae94b6f128e1ea25b86853af1ee275a11ed8856e0162d5a86b276e649019e</hash>
+         <file>..\src\config\default\driver\lib\lib-ieee802154_phy_pic32cxbz-v1.2.0.a</file>
+         <hash>2573ea9d0d9595a16eb3d0bcc45a3ee258db8afc0dd7874ea815f353e271772a</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\pds\include\pds.h</file>
@@ -16082,28 +16073,24 @@
          <hash>65985bd7c2c12421abed6cacf53b1a0fe7d490109651bcfc31c02c13594c7e75</hash>
       </entry>
       <entry>
-         <file>..\src\config\default\driver\thread\inc\crypto\aes_alt.h</file>
-         <hash>69f1cb32f61511683ef5d9cc3cf5781c07fb4d6fb81bdba9977167e2f09492ef</hash>
-      </entry>
-      <entry>
          <file>..\src\config\default\driver\thread\inc\crypto\check_config.h</file>
          <hash>8c891fc36ec2a7d3aff30d05024052fdbac4f7088a5f60001292fdbad6d81536</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\inc\crypto\pic32cx-mbedtls-config.h</file>
-         <hash>01b9b340f8e19dc9cd955c6ea75d4ce5eb43990c34828503c5112684224326d5</hash>
+         <hash>5e1e0f6a525678bd5b6642746efa757cf1155e92e47a6b6d242d4cb859ec2dcc</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\inc\flash_config.h</file>
-         <hash>c1014857f9f1860fd0156ea672c99d2b462453c3820d6e1078d727bdba6593b8</hash>
+         <hash>a4f93bab6fefdca3448577cfdaf13a9ceeb667df4353845a6f0a9080a78e845d</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\inc\openthread-core-pic32cx-config-check.h</file>
-         <hash>7930fba71ad4bc99af14e566d38e17069ca6fac72e57ff92aede266c10893527</hash>
+         <hash>f423ff77bef4e2a0a04ece2dec9b63b58dd41b2c73caf2b8e21fb8fc67c174fb</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\inc\openthread-core-pic32cx-config.h</file>
-         <hash>c9c77adca4ef3867acb02d4cbe556eb705989e049401c5239e3d91f34921ee8e</hash>
+         <hash>f31320f4245b3c4b79ed92f526163cf36ed7e985ed4140f2d817bd924160d0c0</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\inc\openthread-mbedtls-config.h</file>
@@ -16111,15 +16098,15 @@
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\inc\openthread_stack_config.h</file>
-         <hash>fd031d0331b242296c253af987f4e7d99f0e39d3df7fb98020b565514a1c7a8c</hash>
+         <hash>7cd057d2bc35bf9f6e5cc52e1cd460665eb913fbf5610ec27a63755f264e5a33</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\inc\platform-pic32cx.h</file>
-         <hash>d144a3b7084b1b29ab6103fea10576f26aacf425498b028ed693c76455758883</hash>
+         <hash>266d7f4cf5d4840336136558a4c7f269d24ae465e4c4fcb8b161bfb47dc7a573</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\inc\user_row.h</file>
-         <hash>564de3c6cf4592b298e7776d37fff88db47aa16ade1d10d6bd4992942fa89440</hash>
+         <hash>7f4b8396b22dec80e462f0a090e7f65f1c8a6979cc913f451d433b044ba6b8c1</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\openthread\examples\platforms\openthread-system.h</file>
@@ -19227,51 +19214,51 @@
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\src\alarm.c</file>
-         <hash>84505d6594834537a3af74dc95b149e8e8f7199fcd19f967da128e2efc78d7dd</hash>
+         <hash>63e324d199c4afe3d67cbb99b5dde38ebd3f2c21045f9b86fd7163b79053d4aa</hash>
       </entry>
       <entry>
-         <file>..\src\config\default\driver\thread\src\crypto\aes_alt.c</file>
-         <hash>65c49584dbd97e7231dff7adb6be80138f1320791a055a1e94bed3b2f94a1970</hash>
+         <file>..\src\config\default\driver\thread\src\crypto\crypto.c</file>
+         <hash>df21465a278cd02bc5a9a70c98446ab2bc0d49eb4c4260d7b29c71c1a6aeec02</hash>
       </entry>
       <entry>
-         <file>..\src\config\default\driver\thread\src\cxx_helpers.c</file>
-         <hash>69a70cbec4eefddaab8ca10afd5045cf859fc4de6128545f3d0b13519093b8aa</hash>
+         <file>..\src\config\default\driver\thread\src\cxx_helpers.cpp</file>
+         <hash>6191f15795660c018e316bcec9fc4146960ef5825a9efbdddaff9ab37f45151e</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\src\diag.c</file>
-         <hash>c5150a46f9b4200bfb56378369d5c5d37e0a28252baeac0976cbed1842911914</hash>
+         <hash>7626bd977b793e991b4a440818ac40b1386486421e9c524136239cf5eab2aa17</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\src\entropy.c</file>
-         <hash>2c4e5bf764f90c99c947c4f655667c25a34a842b6e48ec750666602634c12192</hash>
+         <hash>a438a3ad02a245dff10f4482b6b541414fae408b334af1d88df808a6e8789b4d</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\src\flash.c</file>
-         <hash>5653bb3263c929022737dd77012aec3ee99dba7c4ab8bb1906707963bd437471</hash>
+         <hash>81d236383b228953561cd413bb026db6da0616375ae5ea8306dd702d48c27d03</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\src\logging.c</file>
-         <hash>6986398546549ab1c42acdcbf5877f9236fd64a4633bb87ac1d28dfc283525f6</hash>
+         <hash>db7548a3c50277c2970b1e590170fefb576f3d841b04e74cfcbf2700c2b59305</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\src\misc.c</file>
-         <hash>d8c906fd7f2d11407d6fbed7969526a15c1fa62fb027701e4b95b043751b7ac6</hash>
+         <hash>5fd0249ca5cf8d38c7bf55f07e22a59cbaf17504f9e02513bf62e0c7c614997c</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\src\ot_tasks.c</file>
-         <hash>8480c9335bed016811652063ab4ffcad5660a3268bc10d0cb07c1163a9e7c412</hash>
+         <hash>256fecce0f7ad0b87859f9d3317a792b8effb106352716d452ede3fe721666bf</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\src\radio.c</file>
-         <hash>cb91a012dd3b02ab54b268f75728bad0fdeaf0aed0e5ed5d46a3e62a0b9d51f6</hash>
+         <hash>fc1317b17736b36c2c5d3d556442689825092fc9411e9a4ceea1c73406059995</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\src\system.c</file>
-         <hash>fb4dcb207cc4e30d12ca27931a26038c1ec44045beec5677a4690554dc0f1f79</hash>
+         <hash>a49160f4b86136b1503fc64f1553db88cd730af89c7d6634835bd893a92d94bc</hash>
       </entry>
       <entry>
          <file>..\src\config\default\driver\thread\src\uart.c</file>
-         <hash>283dfcc6bc24b3e4ab194edfc4ef4bc4d8d2ed3b8a7faf531431b9bb841ee6ee</hash>
+         <hash>2a23ebe568354b807fb036777c9896dacfea48b3a23c0d52bb4b9f43abb6e07e</hash>
       </entry>
       <entry>
          <file>..\src\config\default\exceptions.c</file>
@@ -19287,7 +19274,7 @@
       </entry>
       <entry>
          <file>..\src\config\default\initialization.c</file>
-         <hash>832b91ec2a856357ccbf085e2b560a5feb30f9c819c779689d31c0f8572d5e88</hash>
+         <hash>cf0898451a14202c00fb43a564635bfdcd4a7fbe1597d2f704efb31af220acc7</hash>
       </entry>
       <entry>
          <file>..\src\config\default\interrupts.c</file>
@@ -19407,7 +19394,7 @@
       </entry>
       <entry>
          <file>..\src\config\default\peripheral\sercom\usart\plib_sercom0_usart.c</file>
-         <hash>5ee6e3e192047f38828fe73dd11ec50e09dc314c95951865b6c72973182a2947</hash>
+         <hash>23b83d57bb807331b4633728b0b98e2af0fdc931b2fc0d2462d3c4625c2bba06</hash>
       </entry>
       <entry>
          <file>..\src\config\default\peripheral\sercom\usart\plib_sercom0_usart.h</file>
@@ -19419,7 +19406,7 @@
       </entry>
       <entry>
          <file>..\src\config\default\peripheral\tc\plib_tc0.c</file>
-         <hash>2fc5408192b52b60f89e43e0a03cc70344c5b4db823c5240e734cb5453ed5f9f</hash>
+         <hash>f1c389c5619a32b6a3eb66429c83857f4c9406b70d0a305697908dfe19975c3d</hash>
       </entry>
       <entry>
          <file>..\src\config\default\peripheral\tc\plib_tc0.h</file>
@@ -19943,111 +19930,111 @@
       </entry>
       <entry>
          <file>..\src\stack_config.h</file>
-         <hash>adc648351d8a4f261e42e0349f407b3a2c281084eb3b67a33a860802496b97bb</hash>
+         <hash>33a5351e9dce11099a330813053d854f6adb65e441c31df993cc0bbc62d90584</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\FreeRTOS_tasks.c</file>
-         <hash>14020d617b96dd2814e1211f6e3b645bcf5e2bd3179c23fe7dd16bc666fe9463</hash>
+         <hash>b0e2349f8d150fcb569570d73cf8a80da4eee689039a9f291e8b3c36af6f97f4</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\croutine.c</file>
-         <hash>ebf0cdce261dc4a256c06c0d4ad2582e6026a6da0e973d4cb92092e94ce8f370</hash>
+         <hash>0ca8c178b698a6ad5ce3f6f1246ab287bfb5510f3c04e1d00e5cfb49c57fc66b</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\event_groups.c</file>
-         <hash>76e967b14d231e4f31f014f1564f359a7bfd36bfa263ee6f437afa8c056df657</hash>
+         <hash>42ca0bc7afdfb48e9089dff2b4b047e1515a93e7fce031756af6c49b2212c215</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\FreeRTOS.h</file>
-         <hash>03e9c94aba57e3cf7f4f73bc2d3eb4a96ae38f3425eedb5450622ca286475a0b</hash>
+         <hash>7e29c7d9c773561ec4d0125409036f102f1f15162e213d32568ddf3d8ceddfeb</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\croutine.h</file>
-         <hash>cf52c15fa26a8d4f82b55909b75ebfe2aab25468ba7780748912ddead9812b4e</hash>
+         <hash>b7060be39f6c8d0ffd169806382eed5a411776f0d69b0fb3ade6b07e678303f9</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\deprecated_definitions.h</file>
-         <hash>35000a143464bbbd8df7c9a6f066a64598a24da5174a7be33972e62bfbd75f4d</hash>
+         <hash>81d325362fc67518de04d5070609e537d0757e4cc6d6332e8118b4f81a4fdce7</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\event_groups.h</file>
-         <hash>7b3dd12a50d649c124c1af8be742671b9965b6f924310bda7984fe1b65c7f54a</hash>
+         <hash>2399a780de0eefe95067f5b7744d5e213ad9c793fc6468a8535a8e604f85cbba</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\list.h</file>
-         <hash>dc572f54391c0407fc25db360d912fca9118cddae7bd2e3099eb13f18804e5a9</hash>
+         <hash>0848dc9696a2d4d11bb6957fedb6ec5dfb1c2326dfb66af5ca848b1b32a86b66</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\message_buffer.h</file>
-         <hash>9a8141d3d6c8044a57d7e448180c9bd2ed32e45ded32be288d095a39dced91ab</hash>
+         <hash>4883fce829d415b7d14d0567965cd97e41634339cd3a72a07b76baebedbc0a57</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\mpu_prototypes.h</file>
-         <hash>2b46a2511ce5d23a56bc83079333d8d0a2e33763e5829c9383252806887a3dc0</hash>
+         <hash>8cb02fee372e1cc1958022e054122d248c1c184cfc00eb3db6d0fbc0bfef87d1</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\mpu_wrappers.h</file>
-         <hash>5014408cc33f0f616215f2b48c67b0d47ccc35bfd5f0044ac653b5bbc6cf5778</hash>
+         <hash>d99486024fd44173ff23c14ee8561b6e0ce6ee41ad6d6a7e7b17ea97a5023e8b</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\portable.h</file>
-         <hash>7ade8f368002778c723b3c4e14084910b7225cd36363ed0c948e9ea36c6f251f</hash>
+         <hash>d26267188226020346bd048c9dd0e767b91c7023e5ee0d5f9aa7c7c1864de180</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\projdefs.h</file>
-         <hash>8faf4220ded25b00fd72424a2fa4e63e154713ae7b42f7270f1e3289362a6312</hash>
+         <hash>3d37a1403a69a58a07e214f6a9759601cc0fbe53319c5b14e17f4de5fb8ec0b7</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\queue.h</file>
-         <hash>1b61c1669091e59798a34c32c0f1e234d3f6a645f47641753eceeb7e1d9ce628</hash>
+         <hash>27b85dc3c610f83fee9208e0dd4d8dfa3168ea2259cbe1662e2f6a0ac55431f5</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\semphr.h</file>
-         <hash>c624e8cdfc07844d4cf35382f3cc908c872375c7a3048482bdc110bda88cc4f2</hash>
+         <hash>89a46fcd718990d24f9fea16c681527eec502712ca2d1b0a4e8d6c205f7452e1</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\stack_macros.h</file>
-         <hash>3cddf2b3d47ae387e376ac75eb468f9d8ffb575d68c143e08d54af4087474cce</hash>
+         <hash>d167d886d199615eeeca0acb935bf5c99b42c30a322273363ddc8dec03a58174</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\stream_buffer.h</file>
-         <hash>b876d839460197d94d0f95fb93c6aeb457f6fc572d32258480fed7d4de686b6b</hash>
+         <hash>51da6d9a7cc2cf1504b4f1564e814f422efb9b688fc6e58946f41d0fe23d2d22</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\task.h</file>
-         <hash>45f2245c914ed25ab26a1ea78ddd4ac74cb6522e1b26ac5c44b614ca4c8cee99</hash>
+         <hash>0d71440d1d81d990fa79677c0836712a3e2655ff3ad75478f5a221e2f0583cf8</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\include\timers.h</file>
-         <hash>ee0f596a54137e26ca806ebf067c4c6219a61348f1cbae8861a43d2d4891e1f9</hash>
+         <hash>19e373d04e2f01f9f69a9d3017a75a46b4f7b6e8016742702b10e112786d6181</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\list.c</file>
-         <hash>db5c169cf3efd68da1c6a923ac84eebc724d602c940bde0b9b5f01f05028fde4</hash>
+         <hash>55a947c8bd1eec01ebafcb46ccc96cd33090cbdcd3f0114b9ea6a61ebdd6ee7a</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\portable\GCC\SAM\ARM_CM4F\port.c</file>
-         <hash>11f2202099ed9a73f5ae5ef9dac414f6d9b257d6480bd9c9a1e38a71b3ee8d41</hash>
+         <hash>b0bbd34c94672aecf577f6d721a6b267f56008425047a479a9c7071cc1c2a97a</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\portable\GCC\SAM\ARM_CM4F\portmacro.h</file>
-         <hash>d569e2a29af1c742b69cb16e15d256611fa7979bda2b355e03426d3c40369e42</hash>
+         <hash>284552cdf69a53d3c8afaf3f270f4bd11d8dd9ab462bb06d62b9ef99f3819619</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\portable\MemMang\heap_4.c</file>
-         <hash>d48a51e34caed771e6650d95f6c2527e52fde2a6ebc6f83b49d003aef0135e05</hash>
+         <hash>3a16d742be46814ed11142c370519f74d004e21afdcb2b3e0584a30011f52186</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\queue.c</file>
-         <hash>5cdf4fa35fe059446effff5bf20deaf83ddffb08921bc198fda106b1d17dd894</hash>
+         <hash>a4c20318c20a5f49a34fc757092818eb1065b19f142394a04889aa40d67a5023</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\stream_buffer.c</file>
-         <hash>0ec303ba296caca5de955dc470bcadd134fb15b192ddf61c9afc92070bc1039a</hash>
+         <hash>b825d6bccefea8a8c06b4a2022dede20af67f5bc2a2e4976947b376bc41613a7</hash>
       </entry>
       <entry>
          <file>..\src\third_party\rtos\FreeRTOS\Source\timers.c</file>
-         <hash>24962ef361f396aaa5e6e33776eeeddaf2fb251c87b6fe50602acc56c537b093</hash>
+         <hash>3b936fac70fa25b959b53990cd15c20fb85956cdbe22af4249fde0a94590ff01</hash>
       </entry>
       <entry>
          <file>..\src\third_party\wolfssl\wolfssl\certs_test.h</file>
